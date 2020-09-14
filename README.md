@@ -1,5 +1,5 @@
 # evenOdd
-[![Build Status](http://localhost:8080/Vini_Jenkins/buildStatus/icon?job=libraries)](http://localhost:8080/Vini_Jenkins/job/libraries/)
+[![Build Status](https://localhost:8080/Vini_Jenkins/buildStatus/icon?job=libraries)](https://localhost:8080/Vini_Jenkins/job/libraries/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
