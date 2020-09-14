@@ -1,6 +1,8 @@
 # evenOdd
 [![Build Status](http://localhost:8080/Vini_Jenkins/buildStatus/icon?job=libraries)](http://localhost:8080/Vini_Jenkins/job/libraries/)
 
+[![Build Status](http://localhost:8080/Vini_Jenkins/job/libraries/badge/icon)](http://localhost:8080/Vini_Jenkins/job/libraries/)
+
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
 Add this as a shared library called evenOdd in your jenkins
